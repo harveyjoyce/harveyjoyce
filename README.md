@@ -1,8 +1,5 @@
-# Harvey Joyce 
-## Data Analytics Consultant at The Information Lab
-- I've help numerous companies understand and visualise their complex data, I've worked with industries ranging from retail brands, merchant banks, transport providers and sports institutes. 
-- I am a certified Tableau Data Analyst and Advanced Alteryx User!
-- On GitHub, I have mainly been practising my SQL skills, creating a variety of portfolios.
+# Hi, I'm Harvey 👋
+I'm an Economics graduate from Durham University with a First-Class degree. My expertise lies in econometric analysis, corporate governance, environmental policy, and international development. In my professional journey, I've provided data analysis and business intelligence solutions for diverse clients, including retail brands, merchant banks, transport providers, and sports institutes. I specialize in tools such as Tableau, SQL, Alteryx, and Power BI.
 
 
 
