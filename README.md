@@ -1,7 +1,7 @@
 # Hi, I'm Harvey 👋
 Experienced in client-facing, consulting and research roles with a strong emphasis on understanding and visualising complex data to present to key stakeholders. In my professional journey, I've provided data analysis and business intelligence solutions for diverse clients, including retail brands, merchant banks, transport providers, and sports institutes. I am a First Class Economics graduate specialising in data analysis, corporate governance, environmental policy and international development.
 
-## I specialize in tools such as: 
+## I specialise in tools such as: 
 ### - Tableau
 ### - SQL
 ### - Alteryx
