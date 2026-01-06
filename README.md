@@ -1,22 +1,59 @@
-# Hi, I'm Harvey 👋
-Experienced in client-facing, consulting and research roles with a strong emphasis on understanding and visualising complex data to present to key stakeholders. In my professional journey, I've provided data analysis and business intelligence solutions for diverse clients, including retail brands, merchant banks, transport providers, and sports institutes. I am a First Class Economics graduate specialising in data analysis, corporate governance, environmental policy and international development.
+# 👋 Hi, I'm Harvey Joyce
 
-## I specialise in tools such as: 
-### - Tableau
-### - SQL
-### - Alteryx
-### - Power BI
+🔎 **Data Analytics Consultant** at *The Information Lab* based in **London, UK** — passionate about turning complex data into insights that matter. I enjoy solving real-world problems by blending analytics, storytelling, and clear visual communication.
 
+---
 
+## 💼 About Me
 
+- 📊 Experienced in **data analysis**, **business intelligence**, and **client-facing consulting** roles.
+- 📈 Skilled at building dashboards, cleaning & modelling data, and driving decisions with insights.  
+- 🎓 First Class **Economics graduate** with interests in environmental policy, development, and data strategy.
 
-# Here are my links!
-| | | |
-| :-: | :-: | :-: |
-| ![tableau-public-logo-with-padding](https://github.com/harveyjoyce/harveyjoyce/assets/158076969/c00dbc47-499a-4f7a-b66a-22204da4ef53) | Here is my Tableau Public Portfolio! | https://public.tableau.com/app/profile/harvey.joyce/vizzes |
-| ![alteryx_logo](https://github.com/harveyjoyce/harveyjoyce/assets/158076969/463f8338-7411-43f5-9af7-03366654ad94) | Here is my Alteryx Community Profile! | https://community.alteryx.com/t5/user/viewprofilepage/user-id/521074 |
-| ![360_F_395391650_6LfU41V5A4WIhdTis899OaF7wXVgThgP](https://github.com/harveyjoyce/harveyjoyce/assets/158076969/17a9c6f3-5453-4bc6-81c9-9ddfb9c5586c) | Here is my LinkedIn! | https://www.linkedin.com/in/harvey-joyce-43a2b0201/ |
+---
 
+## 🛠️ Tech Stack & Tools
+
+Here are some of the tools and technologies I use:
+
+- **Data Viz & BI:** Tableau, Power BI  
+- **Data Preparation & ETL:** SQL, Python  
+- **Workflow Automation:** Alteryx  
+- **Other:** Git & GitHub
+
+---
+
+## 📌 Featured Projects
+
+Here are some notable repositories you might find interesting:
+
+### 🔹 **Preppin-Data-Challenges**
+Weekly data prep challenges showcasing SQL & Python techniques.
+
+### 🔹 **Data-with-Danny**
+Collaborative or challenge-based analytics project. 
+
+### 🔹 **Olympic-Viz-Project**
+A visualization project with insights from Olympic data. 
+
+### 🔹 **Lego-Viz-Project**
+Fun and detailed visualization using Lego dataset.
+
+---
+
+## 📊 Other Links & Portfolio
+
+💼 [LinkedIn](https://www.linkedin.com/in/harvey-joyce/) 📈 [Tableau Public](https://public.tableau.com/app/profile/harvey.joyce/vizzes)  🛠  [GitHub](https://github.com/harveyjoyce)
+
+---
+
+## 📫 Let’s Connect!
+
+Feel free to open issues, start discussions, or reach out on LinkedIn — always happy to collaborate or chat about data!
+
+---
+
+✨ *Thanks for stopping by!* 🚀
 
 
 <!---
