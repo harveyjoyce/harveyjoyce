@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Harvey Joyce
+# 👋 Hi, I'm Harvey!
 
 🔎 **Analytics Engineering Consultant** at *The Information Lab* based in **London, UK** — passionate about turning complex data into insights that matter. I enjoy solving real-world problems by blending analytics, storytelling, and clear visual communication.
 
