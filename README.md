@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Harvey Joyce
 
-🔎 **Data Analytics Consultant** at *The Information Lab* based in **London, UK** — passionate about turning complex data into insights that matter. I enjoy solving real-world problems by blending analytics, storytelling, and clear visual communication.
+🔎 **Analytics Engineering Consultant** at *The Information Lab* based in **London, UK** — passionate about turning complex data into insights that matter. I enjoy solving real-world problems by blending analytics, storytelling, and clear visual communication.
 
 ---
 
 ## 💼 About Me
 
-- 📊 Experienced in **data analysis**, **business intelligence**, and **client-facing consulting** roles.
+- 📊 Experienced in **analytics engineering**, **data analysis**, and **client-facing consulting** roles.
 - 📈 Skilled at building dashboards, cleaning & modelling data, and driving decisions with insights.  
 - 🎓 First Class **Economics graduate** with interests in environmental policy, development, and data strategy.
 
@@ -17,9 +17,9 @@
 Here are some of the tools and technologies I use:
 
 - **Data Viz & BI:** Tableau, Power BI  
-- **Data Preparation & ETL:** SQL, Python  
-- **Workflow Automation:** Alteryx  
-- **Other:** Git & GitHub
+- **Coding & ETL:** SQL (Snowflake, GCP), Python  
+- **Workflow Automation:** dbt, Databricks, Alteryx  
+- **Other:** Git & GitHub, S3
 
 ---
 
@@ -27,17 +27,17 @@ Here are some of the tools and technologies I use:
 
 Here are some notable repositories you might find interesting:
 
-### 🔹 **Preppin-Data-Challenges**
+### 🔹 **[Bike Point (TfL) Project 🚲](https://github.com/harveyjoyce/bike-point-project)**
+An end-to-end Python & SQL project, extracting data from Bike Point API and uploading to S3 and cleaning the data in dbt. 
+
+### 🔹 **[Amplitude Project 📥](https://github.com/harveyjoyce/amplitude-api)**
+An end-to-end Python & SQL project, extracting data from Amplitude API and uploading to S3 and cleaning the data in dbt.
+
+### 🔹 **[Pokémon Data Model Project 🍃🔥💦](https://github.com/harveyjoyce/Pokemon-API-Project)**
+Using PokeAPI, I normalised a large data model from raw JSON data in dbt and built a dashboard in Tableau.
+
+### 🔹 **[Preppin-Data Challenges 🧹](https://github.com/harveyjoyce/Preppin-Data-Challenges)**
 Weekly data prep challenges showcasing SQL & Python techniques.
-
-### 🔹 **Data-with-Danny**
-Collaborative or challenge-based analytics project. 
-
-### 🔹 **Olympic-Viz-Project**
-A visualization project with insights from Olympic data. 
-
-### 🔹 **Lego-Viz-Project**
-Fun and detailed visualization using Lego dataset.
 
 ---
 
