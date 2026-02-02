@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Harvey!
 
-🔎 **Data Engineering Consultant** at *The Information Lab* based in **London, UK** — focused on designing reliable data pipelines, scalable data models, and analytics-ready platforms. I enjoy solving real-world problems by building clean, well-structured data foundations that teams can trust.
+🔎 **Data Engineering Consultant** at *[The Information Lab](https://www.thedataschool.co.uk/blog/harvey-joyce/)* based in **London, UK** — focused on designing reliable data pipelines, scalable data models, and analytics-ready platforms. I enjoy solving real-world problems by building clean, well-structured data foundations that teams can trust.
 
 ---
 
