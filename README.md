@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Harvey!
 
-🔎 **Data Engineering Consultant** at *The Information Lab* based in **London, UK** — passionate about turning complex data into insights that matter. I enjoy solving real-world problems by blending analytics, storytelling, and clear visual communication.
+🔎 **Data Engineering Consultant** at *The Information Lab* based in **London, UK** — focused on designing reliable data pipelines, scalable data models, and analytics-ready platforms. I enjoy solving real-world problems by building clean, well-structured data foundations that teams can trust.
 
 ---
 
 ## 💼 About Me
 
 - 📊 Experienced in **data engineering**, **data analysis**, and **client-facing consulting** roles.
-- 📈 Skilled at building dashboards, cleaning & modelling data, and driving decisions with insights.  
+- 📈 Skilled at building dashboards (2x VOTD winner), cleaning & modelling data, and driving decisions with insights.  
 - 🎓 First Class **Economics graduate** with interests in environmental policy, development, and data strategy.
 
 ---
