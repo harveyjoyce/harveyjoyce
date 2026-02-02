@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Harvey!
 
-🔎 **Analytics Engineering Consultant** at *The Information Lab* based in **London, UK** — passionate about turning complex data into insights that matter. I enjoy solving real-world problems by blending analytics, storytelling, and clear visual communication.
+🔎 **Data Engineering Consultant** at *The Information Lab* based in **London, UK** — passionate about turning complex data into insights that matter. I enjoy solving real-world problems by blending analytics, storytelling, and clear visual communication.
 
 ---
 
 ## 💼 About Me
 
-- 📊 Experienced in **analytics engineering**, **data analysis**, and **client-facing consulting** roles.
+- 📊 Experienced in **data engineering**, **data analysis**, and **client-facing consulting** roles.
 - 📈 Skilled at building dashboards, cleaning & modelling data, and driving decisions with insights.  
 - 🎓 First Class **Economics graduate** with interests in environmental policy, development, and data strategy.
 
@@ -25,7 +25,7 @@ Here are some of the tools and technologies I use:
 
 ## 📌 Featured Projects
 
-Here are some notable repositories you might find interesting:
+Here are some notable repositories you might find interesting 👀:
 
 ### 🔹 **[Bike Point (TfL) Project 🚲](https://github.com/harveyjoyce/bike-point-project)**
 An end-to-end Python & SQL project, extracting data from Bike Point API and uploading to S3 and cleaning the data in dbt. 
