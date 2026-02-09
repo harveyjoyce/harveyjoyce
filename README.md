@@ -30,18 +30,18 @@ Here are some notable repositories you might find interesting 👀:
 ### 🔹 **[Bike Point (TfL) Project 🚲](https://github.com/harveyjoyce/bike-point-project)**
 An end-to-end Python & SQL project, extracting data from Bike Point API and uploading to S3 and cleaning the data in dbt. 
 
-### 🔹 **[Amplitude Project 📥](https://github.com/harveyjoyce/amplitude-api)**
-An end-to-end Python & SQL project, extracting data from Amplitude API and uploading to S3 and cleaning the data in dbt.
-
 ### 🔹 **[Pokémon Data Model Project 🍃🔥💦](https://github.com/harveyjoyce/Pokemon-API-Project)**
 Using PokeAPI, I normalised a large data model from raw JSON data in dbt and built a dashboard in Tableau.
+
+### 🔹 **[Amplitude Project 📥](https://github.com/harveyjoyce/amplitude-api)**
+An end-to-end Python & SQL project, extracting data from Amplitude API and uploading to S3 and cleaning the data in dbt.
 
 ### 🔹 **[Preppin-Data Challenges 🧹](https://github.com/harveyjoyce/Preppin-Data-Challenges)**
 Weekly data prep challenges showcasing SQL & Python techniques.
 
 ---
 
-## 📊 Other Links & Portfolio
+## 🔗 Other Links & Portfolio
 
 💼 [LinkedIn](https://www.linkedin.com/in/harvey-joyce/) 📈 [Tableau Public](https://public.tableau.com/app/profile/harvey.joyce/vizzes)  🛠  [GitHub](https://github.com/harveyjoyce)
 
