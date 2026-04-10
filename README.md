@@ -30,6 +30,9 @@ Here are some notable repositories you might find interesting 👀:
 ### 🔹 **[Bike Point (TfL) Project 🚲](https://github.com/harveyjoyce/bike-point-project)**
 An end-to-end Python & SQL project, extracting data from Bike Point API and uploading to S3 and cleaning the data in dbt. 
 
+### 🔹 **[Tableau Write-Back Local Extension📝](https://github.com/harveyjoyce/tableau-write-back-local-extension)**
+Edit, insert, and delete Snowflake rows directly inside a Tableau dashboard — no SQL client needed.
+
 ### 🔹 **[Pokémon Data Model Project 🍃🔥💦](https://github.com/harveyjoyce/Pokemon-API-Project)**
 Using PokeAPI, I normalised a large data model from raw JSON data in dbt and built a dashboard in Tableau.
 
